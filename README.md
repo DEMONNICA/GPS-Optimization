@@ -33,5 +33,6 @@
 
 >
 > Download 📦:        
->[select this here](https://ko-fi.com/illumi666)
+> - [Download now GPS Optimization.](https://shrinkme.click/4cwmla)
+> - [For Magisk Modules or other Plugins, please visit here.](https://t.me/Demoniica)
 ----
