@@ -1,7 +1,9 @@
 > ![Image](https://github.com/user-attachments/assets/ca003a2c-a420-4fca-920a-6154c5d502ac)
 
 > [!NOTE]
-> - Improves GPS performance and stability on Android devices.
+> ```
+> Improves GPS performance and stability on Android devices.
+> ```
 <hr/>
 
 > [!IMPORTANT]
