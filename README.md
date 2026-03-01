@@ -7,9 +7,7 @@
 <hr/>
 
 > [!IMPORTANT]
-> ```
 > Features ✨:
-> ```
 > 1. Configures GPS files for faster and more stable location tracking. ✔️  
 > 2. Uses supl.google.com for reliable GPS connection. ✔️  
 > 3. Optimizes XTRA and NTP servers for better accuracy. ✔️  
@@ -26,16 +24,12 @@
 <hr/>
 
 > [!WARNING]
-> ```
 > Disclaimers 🛡️:
-> ```
 > - This module is provided as is, without warranty of any kind. Any risks of use are entirely your responsibility. It is recommended to back up important data and configuration before installation. This module was developed in good faith to provide benefits, but the author is not responsible for any damage or problems that may occur as a result of its use.
 <hr/>
 
 > [!CAUTION]
-> ```
 > Warning ☢️:
-> ```
 > 1. Use of this module is the sole responsibility of the user. The developer is not responsible for any damage or malfunctions that may occur as a result of the installation or use of this module.
 > 2. This module can modify certain parts of the system. Under certain conditions or configurations, misuse may cause problems such as bootloops or system instability.
 > 3. Before proceeding with the installation, make sure you have access to a recovery mode such as TWRP or ADB as a safety measure in case something goes wrong.
