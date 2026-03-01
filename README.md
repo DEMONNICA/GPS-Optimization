@@ -17,7 +17,7 @@
 > 5. Grants location permissions to Google Play Services. ✔️  
 > 6. Adds sensor batching for better positioning when GPS signal is lost. ✔️  
 > 7. Enables LPP and geofencing for improved location accuracy. ✔️  
-> 8. Sets system properties for GPS optimization (timeouts, retries, etc.). ✔️  
+> 8. Sets system properties for GPS optimization (timeouts, retries, etc.). ✔️
 <hr/>
 
 > [!TIP]
