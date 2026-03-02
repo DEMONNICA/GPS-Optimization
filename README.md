@@ -5,6 +5,10 @@
 > Improves GPS performance and stability on Android devices.
 > ```
 
+> [!TIP]
+> 1. Supports `Magisk`, `APatch`, `SukiSU`, `KernelSU`, and `other variants`.
+> 2. Minimum Android `10 sdk 29`.
+
 > [!IMPORTANT]
 > Features ✨:
 > 1. Configures GPS files for faster and more stable location tracking. ✔️  
@@ -15,12 +19,6 @@
 > 6. Adds sensor batching for better positioning when GPS signal is lost. ✔️  
 > 7. Enables LPP and geofencing for improved location accuracy. ✔️  
 > 8. Sets system properties for GPS optimization (timeouts, retries, etc.). ✔️
-
-> [!TIP]
-> ```
-> 1. Supports `Magisk`, `APatch`, `SukiSU`, `KernelSU`, and `other variants`.
-> 2. Minimum Android `10 sdk 29`.
-> ```
 
 > [!WARNING]
 > Disclaimers 🛡️:
