@@ -17,8 +17,10 @@
 > 8. Sets system properties for GPS optimization (timeouts, retries, etc.). ✔️
 
 > [!TIP]
+> ```
 > 1. Supports `Magisk`, `APatch`, `SukiSU`, `KernelSU`, and `other variants`.
 > 2. Minimum Android `10 sdk 29`.
+> ```
 
 > [!WARNING]
 > Disclaimers 🛡️:
@@ -31,7 +33,6 @@
 > 3. Before proceeding with the installation, make sure you have access to a recovery mode such as TWRP or ADB as a safety measure in case something goes wrong.
 > 4. This module modifies various sensitive system parameters. Improper or incompatible configurations may lead to system instability, overheating, performance degradation, or even bootloops. Use responsibly and ensure you understand the risks involved in applying each modification.
 
->
 > Download 📦:        
 > - [Download now GPS Optimization.](https://shrinkme.click/4cwmla)
 > - [For Magisk Modules or other Plugins, please visit here.](https://t.me/Demoniica)
