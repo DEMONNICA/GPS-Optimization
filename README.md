@@ -11,14 +11,14 @@
 
 > [!IMPORTANT]
 > Features ✨:
-> 1. Configures GPS files for faster and more stable location tracking. ✔️  
-> 2. Uses supl.google.com for reliable GPS connection. ✔️  
-> 3. Optimizes XTRA and NTP servers for better accuracy. ✔️  
-> 4. Enables multi-satellite support (GPS, GLONASS, BeiDou, Galileo, QZSS). ✔️  
-> 5. Grants location permissions to Google Play Services. ✔️  
-> 6. Adds sensor batching for better positioning when GPS signal is lost. ✔️  
-> 7. Enables LPP and geofencing for improved location accuracy. ✔️  
-> 8. Sets system properties for GPS optimization (timeouts, retries, etc.). ✔️
+> 1. Configures GPS files for faster and more stable location tracking.
+> 2. Uses supl.google.com for reliable GPS connection.
+> 3. Optimizes XTRA and NTP servers for better accuracy.
+> 4. Enables multi-satellite support (GPS, GLONASS, BeiDou, Galileo, QZSS).
+> 5. Grants location permissions to Google Play Services.
+> 6. Adds sensor batching for better positioning when GPS signal is lost.
+> 7. Enables LPP and geofencing for improved location accuracy.
+> 8. Sets system properties for GPS optimization (timeouts, retries, etc.).
 
 > [!WARNING]
 > Disclaimers 🛡️:
