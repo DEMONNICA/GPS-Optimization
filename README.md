@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > ```
-> Optimizes GPS performance and stability by configuring system GPS files, applying targeted properties, and granting location permissions on every reboot.
+> Optimizes GPS configuration and location permissions on every reboot.
 > ```
 
 > [!IMPORTANT]
@@ -17,7 +17,7 @@
 > 8. Backs up original GPS configuration and restores automatically on uninstall.
 
 > [!TIP]
-> 1. Supports `Magisk` `KernelSU` `KernelSU Next` `APatch` `SukiSU` and their variants.
+> 1. Supports `APatch` `KernelSU` `Magisk` and their forks.
 > 2. Minimum Android `10 SDK 29`.
 > 3. For best results, use [Meta — Hybrid Mount](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases) for system file overlay support.
 
