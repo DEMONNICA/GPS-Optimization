@@ -3,5 +3,5 @@ name=GPS Optimization
 version=4.5.0
 versionCode=450
 author=@illumi
-description=Improves GPS performance and stability on Android devices.
+description=Optimizes GPS configuration and location permissions on every reboot.
 banner=https://raw.githubusercontent.com/DEMONNICA/GPS-Optimization/refs/heads/main/GPS.jpg
